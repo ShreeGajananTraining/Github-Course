@@ -9,7 +9,8 @@ System.out.println("Hello");
 String un ="admin";
 String pwd ="admin";
 
-System.out.println("loged");
+System.out.println("logged");
+System.out.println("logged out");
 
 	}
 
