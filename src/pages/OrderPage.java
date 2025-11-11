@@ -1,18 +1,13 @@
 package pages;
 
-public class Demo {
+public class OrderPage {
 
 	public static void main(String[] args) {
-		
-		System.out.println("Poonam");
 		// TODO Auto-generated method stub
 		
-		
+		System.out.println("Poonam");
+		System.out.println("Poonam Mantri");
 
 	}
 
 }
-
-
-
-
